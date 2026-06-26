@@ -4,6 +4,8 @@ from utils import recalculate
 
 
 root.title("Фракталы")
+root.iconbitmap("icon.ico")
+
 root.update()
 recalculate()
 
